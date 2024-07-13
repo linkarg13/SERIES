@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",01
 https://archive.org/download/s-01-e-01_202407/S01E01.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",02
@@ -16,9 +15,9 @@ https://archive.org/download/s-01-e-01_202407/S01E05.mkv
 https://archive.org/download/s-01-e-01_202407/S01E06.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",07
 https://archive.org/download/s-01-e-01_202407/S01E07.mkv
-
-
-
---------temporada 2
-
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",08
+https://archive.org/download/s-01-e-10_202407/S01E08.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",09
+https://archive.org/download/s-01-e-10_202407/S01E09.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/auRAAVxlyT6YACql96UdtnpFHy3.jpg"group-title="TEMPORADA 1",10
+https://archive.org/download/s-01-e-10_202407/S01E10.mkv
