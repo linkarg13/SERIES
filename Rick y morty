@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-
-TEMPORADA 1
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtdRrNY/81-Um1-BRa5-NL-AC-UF1000-1000-QL80.jpg"group-title="TEMPORADA 1",01
 https://archive.org/download/112183_202002/T1/0101.mp4
 
@@ -12,6 +9,7 @@ https://archive.org/download/112183_202002/T1/0102.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtdRrNY/81-Um1-BRa5-NL-AC-UF1000-1000-QL80.jpg"group-title="TEMPORADA 1",03
 https://archive.org/download/112183_202002/T1/0103mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtdRrNY/81-Um1-BRa5-NL-AC-UF1000-1000-QL80.jpg"group-title="TEMPORADA 1",04
 https://archive.org/download/112183_202002/T1/0104.mp4
 
@@ -35,3 +33,10 @@ https://archive.org/download/112183_202002/T1/0110.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtdRrNY/81-Um1-BRa5-NL-AC-UF1000-1000-QL80.jpg"group-title="TEMPORADA 1",11
 https://archive.org/download/112183_202002/T1/01011.mp4
+
+
+
+
+
+
+.
